@@ -2,3 +2,7 @@
     padding: auto;
     margin: auto;
 }
+
+.navbar navbar-expand-lg bg-body-tertiary{
+    background-color: black;
+}
