@@ -9,3 +9,8 @@
     width: 60px;
     border-radius: 10%;
 }
+
+.carousel-item img{
+    width: 100px;
+    height: 500px;
+}
