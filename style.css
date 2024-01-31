@@ -2,3 +2,8 @@
     padding: auto;
     margin: auto;
 }
+
+
+.navbar-brand img{
+    height: 10px;
+}
