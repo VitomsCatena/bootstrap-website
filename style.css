@@ -25,3 +25,9 @@ h2{
     justify-content: center;
     display: flex;
 }
+
+hr{
+    height: 90%;
+    width: 100%;
+    color: blue;
+}
