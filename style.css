@@ -27,10 +27,15 @@ section p{
     display: flex;
 }
 
-h2 h3 {
+h2{
     justify-content: center;
     display: flex;
     padding-top: 10px;
+}
+
+#men{
+    display: flex;
+    justify-content: center;
 }
 
 hr{
