@@ -37,6 +37,8 @@ hr{
     width: 100%;
 }
 
-.men{
-    
+.men-fit{
+    justify-content: space-around;
+    display: flexbox;
+    align-items: center;
 }
